@@ -3,6 +3,7 @@ Healthcare decision automation case study comparing Rule-Based and Data-Driven A
 # QoD System Recommendation
 
 **Project:** Healthcare Decision Automation Analysis  
+**Author:** Srinitha Manthri
 **Program:** Girls Who Code  
 
 ---
